@@ -2,7 +2,8 @@
 
 ## Description 
 
-This is a Build a weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities. The current weather conditions include date, visual representation of weather conditions, temperature, humidity, wind speed, UV index.
+This is a Build a weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities. The current weather conditions include date, visual representation of weather conditions, temperature, humidity, wind speed, UV index.<br>
+![ScreenShot](assets/images/screenshot.jpg)<br>
 
 ## Usage 
 
